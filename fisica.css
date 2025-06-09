@@ -124,7 +124,7 @@ h1 {
 
 .fisica-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     gap: 50px;
@@ -139,6 +139,7 @@ h1 {
     min-width: 280px;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    gap: 20px;
 }
 
 .conteudo:hover {
