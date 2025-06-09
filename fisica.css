@@ -124,9 +124,9 @@ h1 {
 
 .fisica-container {
     display: flex;
-    flex-direction: center;
-    justify-content: space-between;
-    align-items: baseline;
+    flex-direction: column-reverse;
+    justify-content: ;
+    align-items: center;
     gap: 50px;
     flex-wrap: wrap;
 }
